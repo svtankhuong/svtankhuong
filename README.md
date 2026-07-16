@@ -17,5 +17,5 @@ https://svtankhuong.github.io/
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=svtankhuong&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=svtankhuong)
 
