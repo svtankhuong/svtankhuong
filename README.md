@@ -12,8 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=svtankhuong&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=svtankhuong&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=svtankhuong&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=svtankhuong&icon=0&color=0)](https://visitcount.itsvg.in)
