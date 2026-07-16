@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on AI<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning AI<br>
+🔭 I’m currently working on AI<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning AI<br> 
 
+# My Porfolio: 
+https://svtankhuong.github.io/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tankhuongpham521) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khương-phạm-b63661247) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pham_tan_khuong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tankhuongpham35@gmail.com) 
@@ -14,3 +16,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=svtankhuong&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
